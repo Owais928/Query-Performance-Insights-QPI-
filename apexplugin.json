@@ -37,7 +37,7 @@
         "internalName": "QPI.APEX.PLUGIN",
         "type": "region",
         "demo": "https://portfolio.oracletech.com.pk/ords/r/ot/apex-query-performance-insights-qpi/login",
-        "previewImage": "https://github.com/Owais928/Data-Quality-Insights-Oracle-Apex-Plugin/blob/main/QPI.gif"
+        "previewImage": "https://raw.githubusercontent.com/Owais928/Data-Quality-Insights-Oracle-Apex-Plugin/main/QPI.gif"
       }
     }
   }
