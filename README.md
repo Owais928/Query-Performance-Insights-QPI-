@@ -66,6 +66,8 @@ create table qpi_run_log (
   child_number number,
   plan_text clob
 );
+
+create index qpi_run_log_i1 on qpi_run_log(app_id, page_id, region_static_id, query_hash, run_ts);
 ```
 
 ---
